@@ -1,0 +1,9 @@
+accounting/
+│── main.py
+│── dirty_main.py
+│── requirements.txt
+│
+└── application/
+    ├── salary.py
+    └── database/
+        └── people.py
